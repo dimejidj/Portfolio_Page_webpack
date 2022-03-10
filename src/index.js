@@ -1,12 +1,12 @@
 import _ from "lodash";
 import "./style.css";
-import calculatorPic from "../dist/calculator.png";
-import tiktaktoePic from "../dist/tik-tak-toe.png";
-import restaurantPic from "../dist/restaurant-pg.png";
-import weatherPic from "../dist/weather-app.png";
-import etchASketch from "../dist/etch-a-sketch.png";
-import bookLibrary from "../dist/library.png";
-import tipCalculator from "../dist/tip-calculator.png";
+import calculatorPic from "../src/calculator.png";
+import tiktaktoePic from "../src/tik-tak-toe.png";
+import restaurantPic from "../src/restaurant-pg.png";
+import weatherPic from "../src/weather-app.png";
+import etchASketch from "../src/etch-a-sketch.png";
+import bookLibrary from "../src/library.png";
+import tipCalculator from "../src/tip-calculator.png";
 import "@fortawesome/fontawesome-free/js/all";
 
 function component() {
